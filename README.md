@@ -18,4 +18,4 @@ I tried to make it better with animations and sound effects. Hope you will find 
 - **Right** Bar: Huge Weapon
 
 ### Here you go - Try it!
-[ShotOut Now!](https://apurva-1403.github.io/ShootOut/)
+[ShootOut Now!](https://apurva-1403.github.io/ShootOut/)
