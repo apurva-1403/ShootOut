@@ -1,5 +1,5 @@
 ### Welcome to ShootOut!
-This is my first Game Development Project with HTML Canvas and vanilla JavaScript.
+This is my first Game Development Project with HTML Canvas and JavaScript.
 I tried to make it better with animations and sound effects. Hope you will find it engaging!
 
 ### Before you shoot remember
