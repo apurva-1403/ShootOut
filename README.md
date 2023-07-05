@@ -2,6 +2,7 @@
 This is my first Game Development Project with HTML Canvas and JavaScript.
 I tried to make it better with animations and sound effects. Hope you will find it engaging!
 
+![ShootOut](https://github.com/apurva-1403/ShootOut/assets/108210483/ae2db24b-9b10-4e5e-b722-60b8f214f928)
 
 ### Before you shoot remember
 - There are four levels Easy, Medium, Hard, and Insane.
